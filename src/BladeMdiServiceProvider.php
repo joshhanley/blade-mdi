@@ -1,6 +1,6 @@
 <?php
 
-namespace RenokiCo\BladeMdi;
+namespace BladeMdi;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Support\ServiceProvider;

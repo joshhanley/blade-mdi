@@ -1,6 +1,6 @@
 <?php
 
-namespace RenokiCo\BladeMdi\Test;
+namespace BladeMdi\Test;
 
 use Illuminate\Support\Str;
 

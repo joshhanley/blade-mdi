@@ -1,6 +1,6 @@
 <?php
 
-namespace RenokiCo\BladeMdi\Test;
+namespace BladeMdi\Test;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 
@@ -23,7 +23,7 @@ abstract class TestCase extends Orchestra
     {
         return [
             \BladeUI\Icons\BladeIconsServiceProvider::class,
-            \RenokiCo\BladeMdi\BladeMdiServiceProvider::class,
+            \BladeMdi\BladeMdiServiceProvider::class,
         ];
     }
 
